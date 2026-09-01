@@ -1,0 +1,9 @@
+{
+  "name": "SHUBHAM Provision Store",
+  "short_name": "SHUBHAM Store",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#222222",
+  "description": "SHUBHAM Provision Store सामान और बिल ऐप"
+}

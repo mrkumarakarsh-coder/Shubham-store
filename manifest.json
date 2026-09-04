@@ -5,5 +5,13 @@
   "display": "standalone",
   "background_color": "#f5f6f8",
   "theme_color": "#222222",
-  "description": "SHUBHAM Provision Store सामान और बिल ऐप"
+  "description": "SHUBHAM Provision Store सामान और सही रेट",
+  "icons": [
+    {
+      "src": "Shubham_Provision_Store_Logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
 }
